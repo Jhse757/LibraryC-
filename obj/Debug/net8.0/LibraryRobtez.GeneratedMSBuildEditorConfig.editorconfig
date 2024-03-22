@@ -9,151 +9,151 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibraryRobtez
 build_property.RootNamespace = LibraryRobtez
-build_property.ProjectDir = /home/riwip5-042/Desktop/c#dmp/LibraryC-/
+build_property.ProjectDir = /home/riwip5-028/Desktop/C#dmp/LibraryC-/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/riwip5-042/Desktop/c#dmp/LibraryC-
+build_property.MSBuildProjectDirectory = /home/riwip5-028/Desktop/C#dmp/LibraryC-
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Auth/Login.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aC9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Auth/Logout.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Auth/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aC9Mb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Auth/Register.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aC9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Book/Create.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Book/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Book/Edit.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Book/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Book/Index.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Book/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Book/Search.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Book/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9TZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Book/Show.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Book/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9TaG93LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Book/Update.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Book/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9VcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Dashboard/Index.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGFzaGJvYXJkL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/History/GenerateReport.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/History/GenerateReport.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGlzdG9yeS9HZW5lcmF0ZVJlcG9ydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/History/List.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/History/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGlzdG9yeS9MaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/History/Search.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/History/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGlzdG9yeS9TZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/History/Show.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/History/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGlzdG9yeS9TaG93LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Loan/Delete.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Loan/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9hbi9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Loan/Edit.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Loan/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9hbi9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Loan/List.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Loan/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9hbi9MaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Loan/Register.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Loan/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9hbi9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Loan/Renew.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Loan/Renew.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9hbi9SZW5ldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Loan/Search.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Loan/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9hbi9TZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Loan/Show.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Loan/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9hbi9TaG93LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Loan/Status.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Loan/Status.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9hbi9TdGF0dXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Loan/Update.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Loan/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9hbi9VcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Shared/Error.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/User/Create.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/User/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/User/Delete.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/User/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/User/Edit.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/User/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/User/Index.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/User/Search.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/User/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9TZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/User/Show.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/User/Show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9TaG93LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/User/Update.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/User/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9VcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/_ViewImports.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/_ViewStart.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-042/Desktop/c\#dmp/LibraryC-/Views/Shared/_Layout.cshtml]
+[/home/riwip5-028/Desktop/C\#dmp/LibraryC-/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2ymy69na9p
