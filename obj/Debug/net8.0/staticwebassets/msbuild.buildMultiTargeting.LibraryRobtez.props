@@ -1,3 +1,7 @@
 ﻿<Project>
+<<<<<<< HEAD
+  <Import Project="..\build\LibraryRobtez.props" />
+=======
   <Import Project="../build/LibraryRobtez.props" />
+>>>>>>> b79bd50ddfcad2ac69f67280210f2a451c115d7f
 </Project>

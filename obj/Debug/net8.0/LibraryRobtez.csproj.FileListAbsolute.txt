@@ -1,3 +1,36 @@
+<<<<<<< HEAD
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\bin\Debug\net8.0\appsettings.json
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\bin\Debug\net8.0\LibraryRobtez.staticwebassets.runtime.json
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\bin\Debug\net8.0\LibraryRobtez.exe
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\bin\Debug\net8.0\LibraryRobtez.deps.json
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\bin\Debug\net8.0\LibraryRobtez.runtimeconfig.json
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\bin\Debug\net8.0\LibraryRobtez.dll
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\bin\Debug\net8.0\LibraryRobtez.pdb
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\LibraryRobtez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\LibraryRobtez.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\LibraryRobtez.AssemblyInfo.cs
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\LibraryRobtez.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\LibraryRobtez.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\LibraryRobtez.RazorAssemblyInfo.cache
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\LibraryRobtez.RazorAssemblyInfo.cs
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\LibraryRobtez.sourcelink.json
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\staticwebassets\msbuild.LibraryRobtez.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\staticwebassets\msbuild.build.LibraryRobtez.props
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibraryRobtez.props
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibraryRobtez.props
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\scopedcss\bundle\LibraryRobtez.styles.css
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\scopedcss\projectbundle\LibraryRobtez.bundle.scp.css
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\LibraryRobtez.dll
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\refint\LibraryRobtez.dll
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\LibraryRobtez.pdb
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\LibraryRobtez.genruntimeconfig.cache
+C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\ref\LibraryRobtez.dll
+=======
 /home/riwip5-042/Desktop/c#dmp/LibraryC-/bin/Debug/net8.0/appsettings.Development.json
 /home/riwip5-042/Desktop/c#dmp/LibraryC-/bin/Debug/net8.0/appsettings.json
 /home/riwip5-042/Desktop/c#dmp/LibraryC-/bin/Debug/net8.0/LibraryRobtez.staticwebassets.runtime.json
@@ -60,3 +93,15 @@
 /home/riwip5-028/Desktop/C#dmp/LibraryC-/obj/Debug/net8.0/LibraryRobtez.pdb
 /home/riwip5-028/Desktop/C#dmp/LibraryC-/obj/Debug/net8.0/LibraryRobtez.genruntimeconfig.cache
 /home/riwip5-028/Desktop/C#dmp/LibraryC-/obj/Debug/net8.0/ref/LibraryRobtez.dll
+>>>>>>> b79bd50ddfcad2ac69f67280210f2a451c115d7f
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.AssemblyInfo.cs
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.RazorAssemblyInfo.cache
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.RazorAssemblyInfo.cs
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.sourcelink.json
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.dll
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\refint\LibraryRobtez.dll
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.pdb
