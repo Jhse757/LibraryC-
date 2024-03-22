@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibraryRobtez")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27a7514a6c34f124b8421d824370c93c70243e9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8383c10e7a15d95510829a540fb1b3cc3ad672a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibraryRobtez")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibraryRobtez")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

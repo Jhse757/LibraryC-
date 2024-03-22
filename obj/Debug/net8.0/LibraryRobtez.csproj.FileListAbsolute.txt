@@ -94,3 +94,14 @@ C:\Users\WINDOWS 11\Desktop\LibraryRobtez\obj\Debug\net8.0\ref\LibraryRobtez.dll
 /home/riwip5-028/Desktop/C#dmp/LibraryC-/obj/Debug/net8.0/LibraryRobtez.genruntimeconfig.cache
 /home/riwip5-028/Desktop/C#dmp/LibraryC-/obj/Debug/net8.0/ref/LibraryRobtez.dll
 >>>>>>> b79bd50ddfcad2ac69f67280210f2a451c115d7f
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.AssemblyInfo.cs
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.RazorAssemblyInfo.cache
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.RazorAssemblyInfo.cs
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.sourcelink.json
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.dll
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\refint\LibraryRobtez.dll
+C:\Users\WINDOWS 11\Desktop\LibraryC-\obj\Debug\net8.0\LibraryRobtez.pdb
